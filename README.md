@@ -32,7 +32,7 @@ These indicators are pivotal in understanding the economic landscape and demogra
 - Alternative Hypothesis (H1): At least one of the ten variables (MLN_USD, USD_CAP, AVWAGE, FERTILITY, EMP, UR, HRWKD, GGDEBT, YNGPOP, MtCO2) significantly impacts adult obesity rates.
 
 ## Methodology
-After the preprocessing, we chose a fixed year (2016) for the data, which resulted in our having 30 distinct countries with features (Year, Obesity, Country_Code, MLN_USD, USD_CAP, AVWAGE, FERTILITY, EMP, UR, HRWKD, GGDEBT, YNGPOP, MtCO2).
+After the preprocessing, we chose a fixed year (2016) for the data, which resulted in our having 30 distinct countries with features (Year, Obesity, Country_Code, MLN_USD, USD_CAP, AVWAGE, FERTILITY, EMP, UR, HRWKD, GGDEBT, YNGPOP, MtCO2). We also made 2 different attempts on out datasets. One was to delete features that result insignificant from the analysis, and the other attempt was to combine features rather than deleting, with the aim of retaining more information.
 
 - Correlation Analysis
 - Linear Regression
