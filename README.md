@@ -22,9 +22,9 @@ the proportion of young population (YNGPOP)
 
 These indicators are pivotal in understanding the economic landscape and demographic dynamics of each country.
 
-3. Emissions by Country: Addressing the environmental aspect, this dataset, obtained from The Global Carbon Project (GCP) quantifies carbon emissions (MtCO2) for each country. Carbon emission levels are a crucial measure of a country’s environmental impact and contribute significantly to global climate change discussions.
+2. Emissions by Country: Addressing the environmental aspect, this dataset, obtained from The Global Carbon Project (GCP) quantifies carbon emissions (MtCO2) for each country. Carbon emission levels are a crucial measure of a country’s environmental impact and contribute significantly to global climate change discussions.
 
-4. Obesity among Adults by Country: From the World Health Organization, this dataset provides statistics on the prevalence of obesity (Obesity) among adults in different countries. It's a vital health indicator, reflecting the nutritional and lifestyle aspects impacting the population.
+3. Obesity among Adults by Country: From the World Health Organization, this dataset provides statistics on the prevalence of obesity (Obesity) among adults in different countries. It's a vital health indicator, reflecting the nutritional and lifestyle aspects impacting the population.
 
 ## Hypothesis:
 
