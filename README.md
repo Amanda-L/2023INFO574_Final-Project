@@ -52,7 +52,9 @@ From the hypotheses and results of the study, we rejected the null hypothesis (H
 
 ## Discussion
 
-After collecting relevant materials, we found that the surprising result may reflect complex socioeconomic dynamics (Ogden, C. L. et al, 2010). High government debt may signal broader economic pressures, which may indirectly affect obesity rates in several ways, including reduced access to healthy food, increased pressure on the population, and changes in health-related policies or funding. The lower R-squared values (0.49 and 0.53) suggest that the model explains less than 60% of the variability in obesity rates. Obesity is influenced by a multitude of factors including genetic, behavioral, cultural, and environmental influences that may not be fully captured by economic and environmental indicators.
+After collecting relevant materials, we found that the surprising result may reflect complex socioeconomic dynamics (Ogden, C. L. et al, 2010). High government debt may signal broader economic pressures, which may indirectly affect obesity rates in several ways, including reduced access to healthy food, increased pressure on the population, and changes in health-related policies or funding. 
+
+The lower R-squared values (0.49 and 0.53) suggest that the model explains less than 60% of the variability in obesity rates. Obesity is influenced by a multitude of factors including genetic, behavioral, cultural, and environmental influences that may not be fully captured by economic and environmental indicators.
 
 Reference:
 Ogden, C. L., Lamb, M. M., Carroll, M. D., & Flegal, K. M. (2010). Obesity and socioeconomic status in adults: United States 1988–1994 and 2005–2008. NCHS data brief, 50, 1-8.
