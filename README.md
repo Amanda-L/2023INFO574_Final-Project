@@ -43,9 +43,9 @@ After the preprocessing, we chose a fixed year (2016) for the data, which result
     - Homoscedasticity
     - Residuals Normality
 - Tried other models (Delete_feature + Notable attempts.ipynb):
--   Adaboosting
--   Gradient Boosting
--   Random Forest
+  -   Adaboosting
+  -   Gradient Boosting
+  -   Random Forest
 
 ## Results
 From the hypotheses and results of the study, we rejected the null hypothesis (H0). The results indicate that at least one variable (Government Debt, GGDEBT) has a statistically significant impact on adult obesity rates. Additionally, by comparing attempts 1 and 2, we discovered that combining variables retains more information in the model and improves interpretability, as opposed to simply deleting them.
