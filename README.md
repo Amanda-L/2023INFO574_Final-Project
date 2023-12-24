@@ -8,9 +8,17 @@ Our project aims to explore the potential influence of various economic and envi
 ## Datasets
 
 1. Country Economic Indicators: This dataset offers a comprehensive view of the economic health and characteristics of countries. Sourced from the Organization for Economic Co-operation and Development (OECD), it includes indicators like:
-'''
-gross economic output (MLN_USD), per capita income (USD_CAP), average wages (AVWAGE), fertility rates (FERTILITY), employment (EMP), unemployment rates (UR), average hours worked (HRWKD), government debt (GGDEBT), and the proportion of young population (YNGPOP)
-'''
+```python
+gross economic output (MLN_USD)
+per capita income (USD_CAP)
+average wages (AVWAGE)
+fertility rates (FERTILITY)
+employment (EMP)
+unemployment rates (UR)
+average hours worked (HRWKD)
+government debt (GGDEBT)
+the proportion of young population (YNGPOP)
+```
 
 These indicators are pivotal in understanding the economic landscape and demographic dynamics of each country.
 
