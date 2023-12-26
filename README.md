@@ -26,7 +26,7 @@ These indicators are pivotal in understanding the economic landscape and demogra
 
 3. Obesity among Adults by Country: From the World Health Organization, this dataset provides statistics on the prevalence of obesity (Obesity) among adults in different countries. It's a vital health indicator, reflecting the nutritional and lifestyle aspects impacting the population.
 
-## Hypothesis:
+## Hypothesis
 
 - Null Hypothesis (H0): There is no significant impact of the ten variables (MLN_USD, USD_CAP, AVWAGE, FERTILITY, EMP, UR, HRWKD, GGDEBT, YNGPOP, MtCO2) on adult obesity rates.
 - Alternative Hypothesis (H1): At least one of the ten variables (MLN_USD, USD_CAP, AVWAGE, FERTILITY, EMP, UR, HRWKD, GGDEBT, YNGPOP, MtCO2) significantly impacts adult obesity rates.
