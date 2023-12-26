@@ -1,4 +1,4 @@
-# WashU-INFO574-FinalProject-2023
+# WashU-Foundations of Analytics-FinalProject-2023
 
 The assignment requires me and teammates of 4 select a problem of interest and prepare an analysis to address the problem. To do the
 analysis our group finds at least 2 independent datasets that can be combined.
