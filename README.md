@@ -1,9 +1,6 @@
 # WashU-Foundations of Analytics-FinalProject-2023
 
-The assignment requires me and teammates of 4 select a problem of interest and prepare an analysis to address the problem. To do the
-analysis our group finds at least 2 independent datasets that can be combined.
-
-Our project aims to explore the potential influence of various economic and environmental factors on obesity rates among adults. We hypothesize that there is a significant relationship between these variables, where changes in economic indicators and carbon emissions may correlate with variations in obesity prevalence.
+This project aims to explore the potential influence of various economic and environmental factors on obesity rates among adults. We hypothesize that there is a significant relationship between these variables, where changes in economic indicators and carbon emissions may correlate with variations in obesity prevalence.
 
 See the files under the folder "Final Project and Slides" for the full report and presentation slides.
 ## Datasets
